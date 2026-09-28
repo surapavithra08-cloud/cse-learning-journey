@@ -12,3 +12,5 @@ My learning journey as a first year CSE student.
 -Build real world projects
 -practicipate in hackathons
 -Improve my problem-solving skills
+## Today's learning
+- I learned how github repositories,commits,and branches work.
